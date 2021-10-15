@@ -22,7 +22,7 @@
 > [Pokemon rouge et bleu](https://fr.wikipedia.org/wiki/Pokémon_Rouge_et_Bleu) sont les tous premiers jeux de la série culte à être sortie en occident, juste après [pokemon rouge](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Rouge_et_Bleu) et vert sorties en premier lieu au japon, les jeux sont présentés sous forme de cartouche étant jouable sur [gameboy](https://fr.wikipedia.org/wiki/Game_Boy). Le jeu a pris une ampleur tellement énorme qu'il a eu une version complémentaire "[Pokémon Jaune](https://fr.wikipedia.org/wiki/Pok%C3%A9mon_Jaune)".
 > 
 
-![pokemon-rouge-bleu-vert_1024x1024.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7dd486bb-515d-4886-b413-d5359a9e76a3/pokemon-rouge-bleu-vert_1024x1024.jpg)
+![pokemon-rouge-bleu-vert_1024x1024.jpg](https://cdn.shopify.com/s/files/1/0502/0817/8352/files/pokemon-rouge-bleu-vert_1024x1024.jpg?v=1605539000)
 
 # Histoire du jeux
 
