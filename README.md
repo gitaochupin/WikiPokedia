@@ -13,7 +13,7 @@
 > Les Pokemons sont des créatures créées par [Satoshi Tajiri](https://fr.wikipedia.org/wiki/Satoshi_Tajiri) et son équipe, ont créé entièrement le premier jeu Pokemon, le nom de base de Pokemon était "Pocket Monster" dont le diminutif et le nom complet est devenu Pokemon. Lors de sa création [Satoshi Tajiri](https://fr.wikipedia.org/wiki/Satoshi_Tajiri) s'est inspiré de sa passion : les insectes, ce qui créa ce fameux jeu culte.
 > 
 
-![Satoshi.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f62eab5b-8693-43d6-b2c0-e3026ccf1a9c/Satoshi.jpg)
+![satochi.jpg](https://m.media-amazon.com/images/M/MV5BNzU5ZGZlMDEtNTA3Mi00MzVmLWFkMzgtZjgwOWM1MzEyYWFjXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_.jpg)
 
 # Pokemon Bleu, Rouge et Vert
 
